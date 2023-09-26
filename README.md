@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34f8a8e0-0fc1-4372-abd8-a74f95d23107/deploy-status)](https://app.netlify.com/sites/hyprcodr/deploys)
+
 # Animated Under Construction Template
 
 View the demo [here.](https://tmkamal.github.io/under-construction-template/)
